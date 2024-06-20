@@ -1,9 +1,9 @@
-# ¡Gracias por descargar mi juego Serpiente comelona! 🐍
+¡Gracias por descargar mi juego Serpiente comelona! 🐍
 
-# Espero que disfrutes jugándolo tanto como yo disfruté creándolo. Si tienes algún comentario, sugerencia o encuentras algún problema, no dudes en ponerte en contacto conmigo.
+Espero que disfrutes jugándolo tanto como yo disfruté creándolo. Si tienes algún comentario, sugerencia o encuentras algún problema, no dudes en ponerte en contacto conmigo.
 
-# ¡Que te diviertas!
+¡Que te diviertas!
 
-# Desarrollador: [Mauricio Alonso Menacho A.]
-# Lenguaje: [Python]
-# Contáctame: https://www.linkedin.com/in/mauricio-menacho
+Desarrollador: [Mauricio Alonso Menacho A.]
+Lenguaje: [Python]
+Contáctame: https://www.linkedin.com/in/mauricio-menacho
